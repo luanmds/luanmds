@@ -5,7 +5,7 @@ I'm a student in Computer Science and currently working as IT analyst intern.
 You can find me on [![LinkedIn][1.2]][1].
 
 [1.2]: https://img.icons8.com/color/22/000000/linkedin.png (LinkedIn icon)
-[1]: https://www.linkedin.com/in/heinz-martin/
+[1]: www.linkedin.com/in/luanmds
 
 ## Currently...
 
@@ -23,12 +23,12 @@ You can find me on [![LinkedIn][1.2]][1].
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 
-### :heavy_exclamation_mark: Interested In:
+### :heavy_exclamation_mark: Interested in:
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078d7?style=flat-square&logo=azure-devops&logoColor=white)
 
 
-### Others Techs:
+### Others techs:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)
