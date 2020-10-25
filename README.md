@@ -10,8 +10,8 @@ You can find me on [![LinkedIn][1.2]][1].
 ## Currently...
 
 ### :briefcase: Working on techs: 
-![DotNet](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white&logoWidth=20)
-![MS SQL SERVER](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JS-F7B93E?style=flat-square&logo=javascript&logoColor=black)
@@ -29,8 +29,8 @@ You can find me on [![LinkedIn][1.2]][1].
 
 
 ### Others techs:
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white)
+![DotNet](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white&logoWidth=20)
+![MS SQL SERVER](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
