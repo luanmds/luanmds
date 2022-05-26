@@ -18,18 +18,14 @@ You can find me on [![LinkedIn][1.2]][1].
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ### :computer: Studying on: 
-![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-
-### :heavy_exclamation_mark: Interested in:
+![DotNet](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white&logoWidth=25)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
-
+![CQRS](https://img.shields.io/badge/-CQRS/EventDriven-yellowgreen?style=flat-square)
 
 ### Others techs:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white)
-![DotNet](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white&logoWidth=20)
+![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![MS SQL SERVER](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
