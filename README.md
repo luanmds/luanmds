@@ -1,6 +1,6 @@
 ## Hi! Welcome to my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-I'm a Software Engineer and researcher of ways to create software in my spare time.
+### I'm a Software Engineer and researcher of ways to create software in my spare time.
 
 You can find me on [![LinkedIn][1.2]][1].
 
