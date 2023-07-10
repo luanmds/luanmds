@@ -9,11 +9,13 @@ You can find me on [![LinkedIn][1.2]][1].
 
 ## Currently...
 
-### :briefcase: Working on techs: 
+### :briefcase: Working on techstack: 
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![DotNet](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white&logoWidth=25)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
 ![EDA](https://img.shields.io/badge/Event%20Driven%20Architecture-yellowgreen?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-green?style=flat-square)
+![DDD](https://img.shields.io/badge/Domain--Driven%20Design-029CF4?style=flat-square)
 
 ### Others techs:
 ![Python](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=white)
