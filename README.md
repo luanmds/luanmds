@@ -1,6 +1,6 @@
 ## Hi! Welcome to my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-### I'm a Software Engineer and researcher of ways to create software in my spare time.
+I'm a Software Engineer and researcher of ways to create software in my spare time.
 
 You can find me on [![LinkedIn][1.2]][1].
 
@@ -9,7 +9,7 @@ You can find me on [![LinkedIn][1.2]][1].
 
 ## Currently...
 
-### :briefcase: Working on techstack: 
+### 💼 Working on tech stack: 
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![DotNet](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white&logoWidth=25)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
@@ -17,7 +17,7 @@ You can find me on [![LinkedIn][1.2]][1].
 ![Microservices](https://img.shields.io/badge/Microservices-green?style=flat-square)
 ![DDD](https://img.shields.io/badge/Domain--Driven%20Design-029CF4?style=flat-square)
 
-### Others techs:
+### 👨‍💻 Other techs:
 ![Python](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgreSQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
@@ -27,10 +27,7 @@ You can find me on [![LinkedIn][1.2]][1].
 ![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![MS SQL SERVER](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 
 
 
