@@ -1,31 +1,40 @@
-## Hi! Welcome to my profile 
+<div align="center">
+  
+  ## 🤙 Hey! I'm Luan and Welcome to my profile 
+</div>
 
-I'm a Software Engineer and researcher of ways to create software in my spare time.
+- 👨‍💻 I'm a Software Engineer and I have a degree in Computer Science
+- 🔍 I'm a researcher of ways to create software in my spare time
+- ✍️ Aiming to write more tech articles in 2024
 
-You can find me on [![LinkedIn][1.2]][1].
+<div align="center">
 
-[1.2]: https://img.icons8.com/color/22/000000/linkedin.png (LinkedIn icon)
-[1]: www.linkedin.com/in/luanmds
+## 🔦 Find me in
+  
+![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=www.linkedin.com%2Fin%2Fluanmds)
+![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&link=https%3A%2F%2Fmedium.com%2F%40luanmds)
 
-## Currently...
+## 📚 Tech Stack
 
-### 💼 Working on tech stack: 
-![DotNet](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white&logoWidth=25)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
+### Currently, I'm Working on the tech stack 
+[![Skills Working](https://skillicons.dev/icons?i=dotnet,cs,azure,mongodb,docker,kubernetes,kafka,terraform,grafana&perline=10)](https://skillicons.dev)
 
-### 👨‍💻 Other techs:
-![Python](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgreSQL&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white)
-![JS](https://img.shields.io/badge/-Javascript-grey?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
+### My Other techs
+[![Other Skills Languages](https://skillicons.dev/icons?i=python,js,react,java,spring,go&perline=10)](https://skillicons.dev)
+[![Other Skills Techs](https://skillicons.dev/icons?i=aws,gcp,git,vscode&perline=10)](https://skillicons.dev)
 
-<a href="https://github.com/luanmds/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luanmds&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Luan's github stats" /></a> | <a href="https://github.com/luanmds/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmds&layout=compact&theme=buefy&hide_border=true" /></a> |
+## ⭐ Git Stats
+
+<a href="https://github.com/luanmds/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luanmds&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Luan's github stats" /></a> | <a href="https://github.com/luanmds/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmds&layout=compact&theme=blue-green&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+
+## 🕹️ Actual Hobbies
+
+![PlayStation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation-5&logoColor=white) &nbsp;
+![Books](https://img.shields.io/badge/Read%20Books-Tech%20and%20Fantasy-grey?style=for-the-badge) &nbsp;
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
+![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+
+
+</div>
