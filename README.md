@@ -9,11 +9,6 @@
 
 <div align="center">
 
-## 🔦 Find me in
-  
-![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=www.linkedin.com%2Fin%2Fluanmds)
-![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&link=https%3A%2F%2Fmedium.com%2F%40luanmds)
-
 ## 📚 Tech Stack
 
 ### Currently, I'm Working on the tech stack 
