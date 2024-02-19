@@ -1,6 +1,7 @@
 <div align="center">
   
   ## 🤙 Hey! I'm Luan and Welcome to my profile 
+  ![](https://komarev.com/ghpvc/?username=luanmds&style=flat-square)
 </div>
 
 - 👨‍💻 I'm a Software Engineer and I have a degree in Computer Science
