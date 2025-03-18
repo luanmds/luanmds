@@ -6,7 +6,7 @@
 
 - 👨‍💻 I'm a Software Engineer and I have a degree in Computer Science
 - 🔍 I'm a researcher of ways to create software in my spare time
-- ✍️ Aiming to write more tech articles in 2024
+- ✍️ Aiming to write more tech articles in 2025 
 
 <div align="center">
 
