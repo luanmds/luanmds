@@ -1,22 +1,22 @@
 <div align="center">
   
-  ## 🤙 Hey! I'm Luan and Welcome to my profile 
+  ## 🤙 Hey! I'm Luan, and Welcome to my profile 
   ![](https://komarev.com/ghpvc/?username=luanmds&style=flat-square)
 </div>
 
-- 👨‍💻 I'm a Software Engineer and I have a degree in Computer Science
+- 👨‍💻 I'm a Software Engineer, and I have a degree in Computer Science
 - 🔍 I'm a researcher of ways to create software in my spare time
-- ✍️ Aiming to write more tech articles in 2025 
+- ✍️ Aiming to write more tech articles in 2026
 
 <div align="center">
 
 ## 📚 Tech Stack
 
 ### Currently, I'm Working on the tech stack 
-[![Skills Working](https://skillicons.dev/icons?i=dotnet,cs,azure,mongodb,docker,kubernetes,kafka,terraform,grafana&perline=10)](https://skillicons.dev)
+[![Skills Working](https://skillicons.dev/icons?i=dotnet,cs,azure,mongodb,docker,kubernetes,kafka,grafana&perline=10)](https://skillicons.dev)
 
 ### My Other techs
-[![Other Skills Languages](https://skillicons.dev/icons?i=python,js,react,java,spring,go&perline=10)](https://skillicons.dev)
+[![Other Skills Languages](https://skillicons.dev/icons?i=python,js,react,java,spring&perline=10)](https://skillicons.dev)
 [![Other Skills Techs](https://skillicons.dev/icons?i=aws,gcp,git,vscode&perline=10)](https://skillicons.dev)
 
 ## ⭐ Git Stats
